@@ -5,3 +5,5 @@
 
 
 http://program-thinker.blogspot.jp/2016/11/shadowsocks.html
+
+或者 https://github.com/kang000feng/Vultr-SS-Firewall/wiki
